@@ -72,4 +72,4 @@ if streamlit.button('Add a Fruit to the List'):
       streamlit.text(back_from_function)
 
 #this will not work correctly just go with it for now
-has context menu
+#has context menu
